@@ -1,3 +1,3 @@
 # https redirect
 
-Just a small docker image to forward http zu https requests.
+Just a small docker image to forward http to https requests.
